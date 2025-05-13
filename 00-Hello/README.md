@@ -1,10 +1,7 @@
-Número de equipo: 
-• Nombre del equipo (opcional).
-• Autores de la resolución:
-◦ Usuario github.
-◦ Legajo.
-◦ Apellido.
-◦ Nombre.
-• Número y título del trabajo.
-• Transcripción del enunciado.
-• Hipótesis de trabajo que surgen luego de leer el enunciado.
+# Número de equipo: 9
+- Autores de la resolución: E. Fernando Franco
+- Usuario github: Feerrfr
+- Legajo:  213.716-1
+- Apellido: Franco
+- Nombre: Edwin Fernando  
+- TP0: Hola mundo
